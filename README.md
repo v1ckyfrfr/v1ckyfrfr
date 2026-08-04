@@ -12,7 +12,7 @@ I'm a high school student from Indonesia who enjoys learning software developmen
   - C Programming
   - TypeScript
   - Next.js
-  - Linux
+  - Linux System Administration
   - AI Development
 
 - 💻 Interested in:
@@ -58,6 +58,7 @@ I'm a high school student from Indonesia who enjoys learning software developmen
 - C
 - TypeScript
 - Next.js
+- React.js
 - Linux
 - Tailwind CSS
 - Git
@@ -70,6 +71,7 @@ I'm a high school student from Indonesia who enjoys learning software developmen
 - Github
 - Vercel
 - Linux
+- Terminal
 
 ---
 
