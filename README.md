@@ -38,9 +38,12 @@ I'm a high school student from Indonesia who enjoys learning software developmen
 
 ---
 
-## 💻 Most Used Languages
+## 💻 Operating Systems
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v1ckyfrfr&layout=compact&theme=tokyonight)
+- Arch Linux (main)
+- Kali Linux
+- CachyOS
+- Windows 
 
 ---
 
