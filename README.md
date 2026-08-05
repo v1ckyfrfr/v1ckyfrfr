@@ -19,7 +19,7 @@ I'm a high school student from Indonesia who enjoys learning software developmen
   - Web Development
   - Open Source
   - Artificial Intelligence
-  - Linux
+  - Linux & System Administration
 
 - 🎯 Goal:
   Build useful software and become a professional Full Stack Web Developer.
