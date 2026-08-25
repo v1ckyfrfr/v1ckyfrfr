@@ -1,6 +1,6 @@
 # Helloooww 👋 I'm Vicky
 
-Future Web Developer • AI Explorer • Linux Enthusiast
+A Future Web Developer • an AI Explorer • Linux Enthusiast
 
 ---
 
@@ -38,18 +38,18 @@ I'm a high school student from Indonesia who enjoys learning software developmen
 
 ---
 
+## 📈 Contribution Graph
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=v1ckyfrfr&theme=tokyo-night)
+
+---
+
 ## 💻 Operating Systems
 
 - Arch Linux (main)
 - Kali Linux
 - CachyOS
 - Windows 
-
----
-
-## 📈 Contribution Graph
-
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=v1ckyfrfr&theme=tokyo-night)
 
 ---
 
