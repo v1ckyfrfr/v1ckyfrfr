@@ -26,12 +26,6 @@ I'm a high school student from Indonesia who enjoys learning software developmen
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=v1ckyfrfr&show_icons=true&theme=tokyonight)
-
----
-
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=v1ckyfrfr&theme=tokyonight)
