@@ -13,7 +13,7 @@ I'm a high school student from Indonesia who enjoys learning software developmen
   - TypeScript
   - Next.js
   - System Administration
-  - AI Development
+  - AI Engineering 
 
 - 💻 Interested in:
   - Web Development
